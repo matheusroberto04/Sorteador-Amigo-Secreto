@@ -11,6 +11,7 @@ Funciona diretamente no navegador, sem necessidade de backend ou instalação de
 
 ## 📂 Estrutura do projeto
 📦 Amigo Secreto
+
 ┣ 📜 assets → Local aonde se encontra a imagem
 
   ┣ imagem

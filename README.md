@@ -12,11 +12,17 @@ Funciona diretamente no navegador, sem necessidade de backend ou instalação de
 ## 📂 Estrutura do projeto
 📦 Amigo Secreto
 ┣ 📜 assets → Local aonde se encontra a imagem
+
   ┣ imagem
+  
 ┣ 📜 js → Pasta aonde fica todo o código e lógica principal do JavaScript
+
   ┣ app.js
+  
 ┗ 📜 index.html → Lógica da Página
+
 ┗ 📜 style.css → Estilização do site
+
 
 ---
 ## ⚙️ Execução
